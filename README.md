@@ -53,3 +53,9 @@ AndroidManifest.xml 파일에서 첫 화면 (Splash Screen) 을 세팅할 수 �
 
 <img width="694" alt="스크린샷 2023-03-19 오전 10 25 23" src="https://user-images.githubusercontent.com/91349474/226148777-3eb67b6c-876b-40cd-ae2c-057e7178064e.png">
 
+
+
+
+### 화면간 데이터 전달
+https://acidic-pot-27b.notion.site/2d99ef169e9e4f33bb59d9f606703baf
+
