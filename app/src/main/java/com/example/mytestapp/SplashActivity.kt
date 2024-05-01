@@ -17,7 +17,7 @@ class SplashActivity : AppCompatActivity() {
 //        }, 3000)
 
         Handler().postDelayed({
-            startActivity(Intent(this, MainActivity3::class.java))
+            startActivity(Intent(this, DiceActivity::class.java))
             finish()
         }, 3000)
     }
