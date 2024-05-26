@@ -17,7 +17,7 @@ class SplashActivity : AppCompatActivity() {
 //        }, 3000)
 
         Handler().postDelayed({
-            startActivity(Intent(this, GoodWordsActivity::class.java))
+            startActivity(Intent(this, RvActivity::class.java))
             finish()
         }, 3000)
     }

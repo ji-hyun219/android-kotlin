@@ -12,6 +12,9 @@
         android:theme="@style/Theme.MyTestApp"
         tools:targetApi="31">
         <activity
+            android:name=".RvActivity"
+            android:exported="false" />
+        <activity
             android:name=".SentenceActivity"
             android:exported="false" />
         <activity
